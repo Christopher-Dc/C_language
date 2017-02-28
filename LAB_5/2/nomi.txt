@@ -1,0 +1,10 @@
+9
+novara
+torino
+vercelli
+ravenna
+napoli
+livorno
+messina
+noviligure
+roma

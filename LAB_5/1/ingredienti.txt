@@ -1,0 +1,7 @@
+6
+Farina 35
+Zucchero 40
+Uova 20
+Latte 25
+Cacao 48
+Marmellata 10

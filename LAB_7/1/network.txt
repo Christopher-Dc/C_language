@@ -1,0 +1,16 @@
+nodo0 nodo1 1000
+nodo1 nodo2 200
+nodo1 nodo3 75
+nodo2 nodo3 50
+nodo2 nodo4 50
+nodo2 nodo5 100
+nodo4 nodo5 50
+nodo5 nodo12 100
+nodo0 nodo7 500
+nodo0 nodo6 200
+nodo6 nodo8 100
+nodo7 nodo8 100
+nodo9 nodo10 100
+nodo10 nodo11 50
+nodo9 nodo11 50
+nodo7 nodo10 200
